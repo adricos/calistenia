@@ -1,0 +1,260 @@
+[
+    {
+        "day": 1,
+        "order": 1,
+        "exercise": "Max Plank",
+        "repetitions": 1,
+        "remarks": "Hold for 30 to 45 seconds",
+        "videos": ["V8aRaCR8API"]
+    },
+    {
+        "day": 1,
+        "order": 2,
+        "exercise": "Squats",
+        "repetitions": 10,
+        "remarks": "Keep your back straight!",
+        "videos": ["YaXPRqUwItQ"]
+    },
+    {
+        "day": 1,
+        "order": 3,
+        "exercise": "Lunges",
+        "repetitions": "10 each leg",
+        "videos": ["wrwwXE_x-pQ"]
+    },
+    {
+        "day": 1,
+        "order": 4,
+        "exercise": "Push Up",
+        "repetitions": 10,
+        "videos": ["ABbVpmubIGQ"]
+    },
+    {
+        "day": 1,
+        "order": 5,
+        "exercise": "Lying Down Leg Raises",
+        "repetitions": 10,
+        "remarks": "Feel your abs as the legs descend",
+        "videos": ["JB2oyawG9KI"]
+    },
+    {
+        "day": 1,
+        "order": 6,
+        "exercise": "Max Mountain Climbers",
+        "repetitions": "25 each leg",
+        "videos": ["nmwgirgXLYM"]
+    },
+    {
+        "day": 1,
+        "order": 7,
+        "exercise": "Pike Push Ups",
+        "repetitions": 10,
+        "remarks": "Go partially down if too hard at first",
+        "videos": ["HT4G-uWcVcc"]
+    },
+    {
+        "day": 2,
+        "order": 1,
+        "exercise": "Close Hand Chin Ups",
+        "repetitions": 6,
+        "videos": ["UfhT0OSUU0w"]
+    },
+    {
+        "day": 2,
+        "order": 2,
+        "exercise": "Pull Ups",
+        "repetitions": 5,
+        "remarks": "Up to 120 seconds rest after chin ups",
+        "videos": ["UfhT0OSUU0w"]
+    },
+    {
+        "day": 2,
+        "order": 3,
+        "exercise": "Dips",
+        "repetitions": 7,
+        "videos": ["0326dy_-CzM", "AGCwEXqW__M"]
+    },
+    {
+        "day": 2,
+        "order": 4,
+        "exercise": "Push Ups",
+        "repetitions": 10,
+        "videos": ["ABbVpmubIGQ"]
+    },
+    {
+        "day": 2,
+        "order": 5,
+        "exercise": "Hanging Leg Raises",
+        "repetitions": 5,
+        "remarks": "Use progressions if needed",
+        "videos": ["kwldBBHkokI"]
+    },
+    {
+        "day": 2,
+        "order": 6,
+        "exercise": "Jump Squats",
+        "repetitions": 10,
+        "videos": ["U4s4mEQ5VqU"]
+    },
+    {
+        "day": 2,
+        "order": 7,
+        "exercise": "Australian Pull Ups",
+        "repetitions": 15,
+        "videos": ["e26VAlQVVwg"]
+    },
+    {
+        "day": 4,
+        "order": 1,
+        "exercise": "Wide Push Ups",
+        "repetitions": 20,
+        "videos": ["rr6eFNNDQdU"]
+    },
+    {
+        "day": 4,
+        "order": 2,
+        "exercise": "Max Mountain Climbers",
+        "repetitions": "25 each leg",
+        "videos": ["nmwgirgXLYM"]
+    },
+    {
+        "day": 4,
+        "order": 3,
+        "exercise": "Wall Sit",
+        "repetitions": 1,
+        "remarks": "60 seconds (40 to begin)",
+        "videos": ["-cdph8hv0O0"]
+    },
+    {
+        "day": 4,
+        "order": 4,
+        "exercise": "Clap Push Ups",
+        "repetitions": 10,
+        "remarks": "Use progressions if needed",
+        "videos": ["FRo3b_Pfw3M"]
+    },
+    {
+        "day": 4,
+        "order": 5,
+        "exercise": "Superman Hold",
+        "repetitions": 1,
+        "remarks": "30 seconds (Progressions if needed)",
+        "videos": ["ARQHGgpmECM"]
+    },
+    {
+        "day": 4,
+        "order": 6,
+        "exercise": "Squats",
+        "repetitions": 30,
+        "remarks": "20 to begin",
+        "videos": ["YaXPRqUwItQ"]
+    },
+    {
+        "day": 4,
+        "order": 7,
+        "exercise": "Max Plank",
+        "repetitions": 1,
+        "remarks": "Hold for 30 to 60 seconds",
+        "videos": ["V8aRaCR8API"]
+    },
+    {
+        "day": 5,
+        "order": 1,
+        "exercise": "80 Meter Run",
+        "repetitions": 1,
+        "remarks": "Follow with 45 second walk"
+    },
+    {
+        "day": 5,
+        "order": 2,
+        "exercise": "Dips",
+        "repetitions": 5,
+        "videos": ["0326dy_-CzM", "AGCwEXqW__M"]
+    },
+    {
+        "day": 5,
+        "order": 3,
+        "exercise": "Jumping Jacks",
+        "repetitions": "20 Or for 50 seconds",
+        "videos": ["1b98WrRrmUs"]
+    },
+    {
+        "day": 5,
+        "order": 4,
+        "exercise": "Push Ups",
+        "repetitions": 10,
+        "videos": ["ABbVpmubIGQ"]
+    },
+    {
+        "day": 5,
+        "order": 5,
+        "exercise": "Alternating High Knee",
+        "repetitions": "20 each leg Or for 30 seconds",
+        "videos": ["oVkx_BuXLzs"]
+    },
+    {
+        "day": 5,
+        "order": 6,
+        "exercise": "Max Mountain Climbers",
+        "repetitions": "20 each leg",
+        "remarks": "Or for 30 seconds",
+        "videos": ["nmwgirgXLYM"]
+    },
+    {
+        "day": 5,
+        "order": 7,
+        "exercise": "Max Plank",
+        "repetitions": 1,
+        "remarks": "Hold for 30 seconds",
+        "videos": ["V8aRaCR8API"]
+    },
+    {
+        "day": 6,
+        "order": 1,
+        "exercise": "Sprint - top speed",
+        "repetitions": "4 reps, 15 seconds each",
+        "remarks": "Follow each rep with 15 sec jog"
+    },
+    {
+        "day": 6,
+        "order": 2,
+        "exercise": "Walk - brisk speed",
+        "repetitions": "1 rep, 45 seconds",
+        "remarks": "Follow with 40-60 second break"
+    },
+    {
+        "day": 6,
+        "order": 3,
+        "exercise": "Sprint - top speed",
+        "repetitions": "1 rep, 30 seconds",
+        "remarks": "Follow with 20-30 sec jog"
+    },
+    {
+        "day": 6,
+        "order": 4,
+        "exercise": "Walk - brisk speed",
+        "repetitions": "1 rep, 45 seconds",
+        "remarks": "Follow with 40-60 second break"
+    },
+    {
+        "day": 6,
+        "order": 5,
+        "exercise": "Sprint - top speed",
+        "repetitions": "4 reps, 15 seconds each",
+        "remarks": "Follow each rep with 15 sec jog"
+    },
+    {
+        "day": 6,
+        "order": 6,
+        "exercise": "Walk - brisk speed",
+        "repetitions": "1 rep, 45 seconds",
+        "remarks": "Follow with 40-60 second break"
+    },
+    {
+        "day": 6,
+        "order": 7,
+        "exercise": "Sprint - top speed",
+        "repetitions": "1 rep, 30 seconds",
+        "remarks": "Follow with 20-30 sec jog"
+    }
+]
